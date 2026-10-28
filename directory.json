@@ -1,0 +1,678 @@
+[
+  {
+    "name": "Abhinav Agarwal",
+    "branch": "AEIE"
+  },
+  {
+    "name": "Ajit Sahoo",
+    "branch": "AEIE"
+  },
+  {
+    "name": "Amit Gabri",
+    "branch": "AEIE"
+  },
+  {
+    "name": "Amit Mishra",
+    "branch": "AEIE"
+  },
+  {
+    "name": "Amit Singh",
+    "branch": "AEIE"
+  },
+  {
+    "name": "Apurba",
+    "branch": "AEIE"
+  },
+  {
+    "name": "Atul Minhas",
+    "branch": "AEIE"
+  },
+  {
+    "name": "Avijeet Sahoo",
+    "branch": "AEIE"
+  },
+  {
+    "name": "Chandrika Jena",
+    "branch": "AEIE"
+  },
+  {
+    "name": "Manoj Nayak",
+    "branch": "AEIE"
+  },
+  {
+    "name": "Partha Dey",
+    "branch": "AEIE"
+  },
+  {
+    "name": "Pradeep Moitra",
+    "branch": "AEIE"
+  },
+  {
+    "name": "Puja Priya",
+    "branch": "AEIE"
+  },
+  {
+    "name": "Ramesh Parida",
+    "branch": "AEIE"
+  },
+  {
+    "name": "Sachin Rath",
+    "branch": "AEIE"
+  },
+  {
+    "name": "Sagar Baliyara",
+    "branch": "AEIE"
+  },
+  {
+    "name": "Sthirata Dei",
+    "branch": "AEIE"
+  },
+  {
+    "name": "Swayam Prakash Behera",
+    "branch": "AEIE"
+  },
+  {
+    "name": "Amruta Arunima",
+    "branch": "Ceramic"
+  },
+  {
+    "name": "Ashok Dalai",
+    "branch": "Ceramic"
+  },
+  {
+    "name": "Champak Pal",
+    "branch": "Ceramic"
+  },
+  {
+    "name": "Devendra Verma",
+    "branch": "Ceramic"
+  },
+  {
+    "name": "Joydeep Sarkar",
+    "branch": "Ceramic"
+  },
+  {
+    "name": "Manas Majhi",
+    "branch": "Ceramic"
+  },
+  {
+    "name": "Praveen Chandra",
+    "branch": "Ceramic"
+  },
+  {
+    "name": "Puneet Bansal",
+    "branch": "Ceramic"
+  },
+  {
+    "name": "Rahul Bhowmik",
+    "branch": "Ceramic"
+  },
+  {
+    "name": "Rohit Khanna",
+    "branch": "Ceramic"
+  },
+  {
+    "name": "Sephalika Senapati",
+    "branch": "Ceramic"
+  },
+  {
+    "name": "Suvendu Pattanaik",
+    "branch": "Ceramic"
+  },
+  {
+    "name": "Abhisek Swain",
+    "branch": "Chemical"
+  },
+  {
+    "name": "Debashis Kar",
+    "branch": "Chemical"
+  },
+  {
+    "name": "Dipa Das",
+    "branch": "Chemical"
+  },
+  {
+    "name": "Harpreet Tuteja",
+    "branch": "Chemical"
+  },
+  {
+    "name": "Jyoti Purohit",
+    "branch": "Chemical"
+  },
+  {
+    "name": "Kulbhushan Sharma",
+    "branch": "Chemical"
+  },
+  {
+    "name": "Manish Kumar Suwalka",
+    "branch": "Chemical"
+  },
+  {
+    "name": "Manoj Gupta",
+    "branch": "Chemical"
+  },
+  {
+    "name": "Prabhjot Singh Randhawa",
+    "branch": "Chemical"
+  },
+  {
+    "name": "Purna Mahji",
+    "branch": "Chemical"
+  },
+  {
+    "name": "Ratan Kumar",
+    "branch": "Chemical"
+  },
+  {
+    "name": "Sanjukta Behera",
+    "branch": "Chemical"
+  },
+  {
+    "name": "Uma Maharatha",
+    "branch": "Chemical"
+  },
+  {
+    "name": "Yogesh Singh Rawat",
+    "branch": "Chemical"
+  },
+  {
+    "name": "Aniruddha Mukherjee",
+    "branch": "Civil"
+  },
+  {
+    "name": "Anuj Sharma",
+    "branch": "Civil"
+  },
+  {
+    "name": "Ashok Lenka",
+    "branch": "Civil"
+  },
+  {
+    "name": "Deba Prakash Satapathy",
+    "branch": "Civil"
+  },
+  {
+    "name": "Parimita Mohanty",
+    "branch": "Civil"
+  },
+  {
+    "name": "Pradipta De",
+    "branch": "Civil"
+  },
+  {
+    "name": "Prakash Rangarajan",
+    "branch": "Civil"
+  },
+  {
+    "name": "Ramesh Behera",
+    "branch": "Civil"
+  },
+  {
+    "name": "Sandeep Panda",
+    "branch": "Civil"
+  },
+  {
+    "name": "Santosh Kumar Singh",
+    "branch": "Civil"
+  },
+  {
+    "name": "Soma Banerjee",
+    "branch": "Civil"
+  },
+  {
+    "name": "Sudhira Kumar Sahoo",
+    "branch": "Civil"
+  },
+  {
+    "name": "Sujit Behera",
+    "branch": "Civil"
+  },
+  {
+    "name": "Sujit Tahal",
+    "branch": "Civil"
+  },
+  {
+    "name": "SUNITI Nanda",
+    "branch": "Civil"
+  },
+  {
+    "name": "Suranjit Dutta",
+    "branch": "Civil"
+  },
+  {
+    "name": "Swati Panda",
+    "branch": "Civil"
+  },
+  {
+    "name": "Swetha Srivastava",
+    "branch": "Civil"
+  },
+  {
+    "name": "Ashokaa Mallick",
+    "branch": "Computer Science"
+  },
+  {
+    "name": "Chitta Ranjan Sahoo",
+    "branch": "Computer Science"
+  },
+  {
+    "name": "Debasish Das",
+    "branch": "Computer Science"
+  },
+  {
+    "name": "Dillip Biswal",
+    "branch": "Computer Science"
+  },
+  {
+    "name": "Ganesh Harihara Iyer",
+    "branch": "Computer Science"
+  },
+  {
+    "name": "Harendra Singh",
+    "branch": "Computer Science"
+  },
+  {
+    "name": "Hriday Nayak",
+    "branch": "Computer Science"
+  },
+  {
+    "name": "Kuldeep Chowbay",
+    "branch": "Computer Science"
+  },
+  {
+    "name": "nivedita neelamani",
+    "branch": "Computer Science"
+  },
+  {
+    "name": "Prakash Parida",
+    "branch": "Computer Science"
+  },
+  {
+    "name": "Prasanta Bisoyee",
+    "branch": "Computer Science"
+  },
+  {
+    "name": "Praveen Bhushan",
+    "branch": "Computer Science"
+  },
+  {
+    "name": "Priya Zawar",
+    "branch": "Computer Science"
+  },
+  {
+    "name": "Rohit Nigam",
+    "branch": "Computer Science"
+  },
+  {
+    "name": "Sunita Nayak",
+    "branch": "Computer Science"
+  },
+  {
+    "name": "Amruta Misra",
+    "branch": "Electrical"
+  },
+  {
+    "name": "Anupam Pandey",
+    "branch": "Electrical"
+  },
+  {
+    "name": "Arindam Das",
+    "branch": "Electrical"
+  },
+  {
+    "name": "Arun Patra",
+    "branch": "Electrical"
+  },
+  {
+    "name": "Chandrajit Das",
+    "branch": "Electrical"
+  },
+  {
+    "name": "Chinmaya Jena",
+    "branch": "Electrical"
+  },
+  {
+    "name": "Chitta Ranjan Nayak",
+    "branch": "Electrical"
+  },
+  {
+    "name": "Debaprasad Rath",
+    "branch": "Electrical"
+  },
+  {
+    "name": "Dipanwita Kar",
+    "branch": "Electrical"
+  },
+  {
+    "name": "Himesh Handa",
+    "branch": "Electrical"
+  },
+  {
+    "name": "Kireet Singh",
+    "branch": "Electrical"
+  },
+  {
+    "name": "Kranti Thyadi",
+    "branch": "Electrical"
+  },
+  {
+    "name": "Manas Behera",
+    "branch": "Electrical"
+  },
+  {
+    "name": "Manasi Padhy",
+    "branch": "Electrical"
+  },
+  {
+    "name": "Niraj Thakur",
+    "branch": "Electrical"
+  },
+  {
+    "name": "Nirmalya Mishra",
+    "branch": "Electrical"
+  },
+  {
+    "name": "Nitin Singh",
+    "branch": "Electrical"
+  },
+  {
+    "name": "Pradeep Kumar Panigrahi",
+    "branch": "Electrical"
+  },
+  {
+    "name": "Pradeep Panda",
+    "branch": "Electrical"
+  },
+  {
+    "name": "Prasanta Kumar Patra",
+    "branch": "Electrical"
+  },
+  {
+    "name": "Rajeev Ranjan",
+    "branch": "Electrical"
+  },
+  {
+    "name": "Rashmi Agrawal",
+    "branch": "Electrical"
+  },
+  {
+    "name": "Reena Gupta",
+    "branch": "Electrical"
+  },
+  {
+    "name": "Sandeep Narayanappa",
+    "branch": "Electrical"
+  },
+  {
+    "name": "Sandeep R",
+    "branch": "Electrical"
+  },
+  {
+    "name": "Sandipana Mishra",
+    "branch": "Electrical"
+  },
+  {
+    "name": "Satya Narayan Chhotaray",
+    "branch": "Electrical"
+  },
+  {
+    "name": "Seema Mohanty",
+    "branch": "Electrical"
+  },
+  {
+    "name": "Sucharita Otta",
+    "branch": "Electrical"
+  },
+  {
+    "name": "Sumit Gulati",
+    "branch": "Electrical"
+  },
+  {
+    "name": "Sunil Kheria",
+    "branch": "Electrical"
+  },
+  {
+    "name": "Suresh Mohapatro",
+    "branch": "Electrical"
+  },
+  {
+    "name": "Swarup Supkar",
+    "branch": "Electrical"
+  },
+  {
+    "name": "Usharani Sahoo",
+    "branch": "Electrical"
+  },
+  {
+    "name": "Vishal Joshi",
+    "branch": "Electrical"
+  },
+  {
+    "name": "Ajay Dubey",
+    "branch": "Mechanical"
+  },
+  {
+    "name": "Amit Srivastava",
+    "branch": "Mechanical"
+  },
+  {
+    "name": "Amitava Mandal",
+    "branch": "Mechanical"
+  },
+  {
+    "name": "Balpreet Singh",
+    "branch": "Mechanical"
+  },
+  {
+    "name": "Boban Mathai",
+    "branch": "Mechanical"
+  },
+  {
+    "name": "Dillip Patra",
+    "branch": "Mechanical"
+  },
+  {
+    "name": "Dillip Sahu",
+    "branch": "Mechanical"
+  },
+  {
+    "name": "Dr. D K KARTHIK",
+    "branch": "Mechanical"
+  },
+  {
+    "name": "Gautam Pradhan",
+    "branch": "Mechanical"
+  },
+  {
+    "name": "Girish Khurana",
+    "branch": "Mechanical"
+  },
+  {
+    "name": "Jajati Mohapatra",
+    "branch": "Mechanical"
+  },
+  {
+    "name": "Kishore Behera",
+    "branch": "Mechanical"
+  },
+  {
+    "name": "Malay Ranjan Jaipuria",
+    "branch": "Mechanical"
+  },
+  {
+    "name": "Mamata kumari Rath",
+    "branch": "Mechanical"
+  },
+  {
+    "name": "Manish Gupta",
+    "branch": "Mechanical"
+  },
+  {
+    "name": "Manish kumar sinha",
+    "branch": "Mechanical"
+  },
+  {
+    "name": "Manisha Parida",
+    "branch": "Mechanical"
+  },
+  {
+    "name": "Mukunda Jena",
+    "branch": "Mechanical"
+  },
+  {
+    "name": "PRADEEP KUMAR",
+    "branch": "Mechanical"
+  },
+  {
+    "name": "Rakhi Dash",
+    "branch": "Mechanical"
+  },
+  {
+    "name": "Rashmi Modi",
+    "branch": "Mechanical"
+  },
+  {
+    "name": "Ronita Panda",
+    "branch": "Mechanical"
+  },
+  {
+    "name": "Rosy Kar",
+    "branch": "Mechanical"
+  },
+  {
+    "name": "Sabarni Mahapatra",
+    "branch": "Mechanical"
+  },
+  {
+    "name": "Sandeep Verma",
+    "branch": "Mechanical"
+  },
+  {
+    "name": "Subhadra Biswas",
+    "branch": "Mechanical"
+  },
+  {
+    "name": "Sudipta Dey",
+    "branch": "Mechanical"
+  },
+  {
+    "name": "Sujit Mallick",
+    "branch": "Mechanical"
+  },
+  {
+    "name": "Sumanta Kumar Nayak",
+    "branch": "Mechanical"
+  },
+  {
+    "name": "Suresh Gudivada",
+    "branch": "Mechanical"
+  },
+  {
+    "name": "UMESH P RATH",
+    "branch": "Mechanical"
+  },
+  {
+    "name": "Veera Raghavan",
+    "branch": "Mechanical"
+  },
+  {
+    "name": "Amit Lugun",
+    "branch": "Metallurgy"
+  },
+  {
+    "name": "DEEPANJAN ROY",
+    "branch": "Metallurgy"
+  },
+  {
+    "name": "Divyarajsinh Jhala",
+    "branch": "Metallurgy"
+  },
+  {
+    "name": "Girija Sankar Maharana",
+    "branch": "Metallurgy"
+  },
+  {
+    "name": "Manoj Tripathy",
+    "branch": "Metallurgy"
+  },
+  {
+    "name": "Pradeep Morab",
+    "branch": "Metallurgy"
+  },
+  {
+    "name": "Pranati Mohanty",
+    "branch": "Metallurgy"
+  },
+  {
+    "name": "Raghavendran Shanmugam",
+    "branch": "Metallurgy"
+  },
+  {
+    "name": "Rakesh Swami",
+    "branch": "Metallurgy"
+  },
+  {
+    "name": "Rasmita Nayak",
+    "branch": "Metallurgy"
+  },
+  {
+    "name": "SHIV NARAYAN SAHOO",
+    "branch": "Metallurgy"
+  },
+  {
+    "name": "Shobhit Kumar Singh",
+    "branch": "Metallurgy"
+  },
+  {
+    "name": "Srinivasa Rao Bakshi",
+    "branch": "Metallurgy"
+  },
+  {
+    "name": "Subhankar Pattanayak",
+    "branch": "Metallurgy"
+  },
+  {
+    "name": "Sunil Kumar",
+    "branch": "Metallurgy"
+  },
+  {
+    "name": "Ved Sinha",
+    "branch": "Metallurgy"
+  },
+  {
+    "name": "Gaurav Agrawal",
+    "branch": "Mining"
+  },
+  {
+    "name": "Gouri Mishra",
+    "branch": "Mining"
+  },
+  {
+    "name": "Kuldeep Bara",
+    "branch": "Mining"
+  },
+  {
+    "name": "Manas Hanuman",
+    "branch": "Mining"
+  },
+  {
+    "name": "Praveen Kumar Brinshi",
+    "branch": "Mining"
+  },
+  {
+    "name": "Prem Kar",
+    "branch": "Mining"
+  },
+  {
+    "name": "Rabindra Sethi",
+    "branch": "Mining"
+  },
+  {
+    "name": "Rakesh Padhi",
+    "branch": "Mining"
+  },
+  {
+    "name": "Sachin Mylavarapu",
+    "branch": "Mining"
+  }
+]
